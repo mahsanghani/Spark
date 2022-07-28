@@ -13,4 +13,4 @@ then
     exit 1
 fi
 # Script to create FastAPI endpoints and preloading pipelines for inference
-python3 /Spark/FastAPI/main.py
+python3 /content/main.py
